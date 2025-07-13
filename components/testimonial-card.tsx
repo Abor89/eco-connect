@@ -35,4 +35,3 @@ export default function TestimonialCard({ testimonial }: TestimonialCardProps) {
     </Card>
   )
 }
-
